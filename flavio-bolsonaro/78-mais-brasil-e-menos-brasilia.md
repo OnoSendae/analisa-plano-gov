@@ -1,0 +1,7 @@
+# Mais Brasil e menos Brasília
+
+"Mais Brasil, menos Brasília" não é uma frase nova para nós: é um jeito de governar que já praticamos. No nosso governo, o município deixou de ser um subordinado que pede favor em Brasília e passou a ser tratado como parceiro, com mais autonomia e mais protagonismo para o prefeito resolver a vida da sua cidade. E quando a pandemia ameaçou quebrar estados e municípios, foi o governo Bolsonaro que garantiu o socorro federativo, entregue diretamente ao poder local para manter a saúde, o funcionalismo e os serviços de pé, no momento mais difícil. Enquanto uns falam em federalismo, nós o praticamos.
+
+Vamos retomar e aprofundar esse caminho. Promoveremos a revisão do pacto federativo e a redefinição das regras e dos processos orçamentários, e revisar a legislação para agilizar a aprovação, a liberação dos recursos e a prestação de contas. Hoje o dinheiro existe, mas emperra no caminho: o gestor local recebe o recurso e não consegue executá-lo, travado por exigências que consomem meses. Destravar isso é fazer a escola ser reformada mais rápido, o posto de saúde funcionar antes e o dinheiro do cidadão render mais perto de casa.
+
+No mesmo esforço de organizar melhor o orçamento, daremos mais transparência, controle e rastreabilidade às emendas parlamentares, priorizando sua alocação em políticas públicas prioritárias do Plano Plurianual, aprovado pelo parlamento.

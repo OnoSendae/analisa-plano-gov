@@ -1,0 +1,7 @@
+# Brasil que cresce
+
+## o país que dá condições a quem quer trabalhar e produzir
+
+Os capítulos anteriores trataram da vida de cada família, e do que muda nela desde o primeiro dia, sem depender de esperar por nada. Este capítulo trata de outra coisa: do país que cresce por baixo dessa vida e faz cada conquista ir mais longe. A internet é infraestrutura tão essencial quanto a estrada e a energia, e a conexão que dá acesso a tudo já vem tratada no Brasil sem Fila. A casa própria já vem no Brasil que Prospera; mas é a infraestrutura deste capítulo que faz chegar a esse bairro a estrada, o transporte e o emprego ao redor. O preço no mercado já cai no Brasil Mais Barato; mas é a energia e a logística baratas que sustentam essa queda no tempo. O brasileiro não precisa esperar o país crescer para viver melhor. Mas, quando o país cresce, o que ele conquistou vale mais, dura mais e alcança mais gente.
+
+Vamos fazer o Brasil crescer, e esse é um compromisso central do nosso governo. O país cresceu, em média, 2% ao ano nas últimas duas décadas, menos do que o mundo. Nossa meta é dobrar esse ritmo e alcançar um crescimento sustentado de 4% ao ano ao longo da próxima década, apoiado no investimento privado, na segurança jurídica e na competitividade do agro, da indústria e dos serviços. Não é promessa vazia: é o resultado de escolhas concretas, e é delas que trata este capítulo. O papel do Estado aqui não é ser o empresário, é ser o país que funciona, para que quem produz possa produzir e para que o esforço de cada um renda ainda mais.

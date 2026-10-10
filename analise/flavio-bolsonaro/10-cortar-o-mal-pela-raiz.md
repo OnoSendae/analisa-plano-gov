@@ -1,0 +1,18 @@
+# Análise: Cortar o mal pela raiz
+
+O capítulo promete usar “a força da Presidência da República e a nossa experiência legislativa” para aprovar e aplicar castração química a estupradores e abusadores de crianças condenados. A experiência legislativa verificável não inclui um projeto de lei de Flávio Bolsonaro sobre esse tema. A força da Presidência, aqui, é a de propor, sancionar e regulamentar. A medida, no modo como o texto a descreve — punição aplicada a condenados, sem falar em consentimento nem em tratamento —, esbarra na Constituição antes de esbarrar na maioria.
+
+O artigo 5º veda tortura e tratamento desumano ou degradante (inciso III), pena cruel (inciso XLVII, alínea “e”) e assegura aos presos o respeito à integridade física e moral (inciso XLIX). Pena de morte, salvo em guerra, e pena perpétua também estão fora. Intervenção hormonal compulsória, decidida como castigo e executada sobre o corpo de quem não consente, cai nesse bloco. O médico não é agente de execução penal. Não localizei parecer do Conselho Federal de Medicina que autorize a castração química como pena. Em dezembro de 2024, o Conselho Federal de Farmácia publicou alerta de especialistas: inibidores de libido, como acetato de medroxiprogesterona e acetato de ciproterona, reduzem hormônio, não impedem conduta violenta e trazem efeitos adversos. Revista Bioética do próprio CFM, em 2014, tratou a castração química como pena, tratamento e experimento ao mesmo tempo, com conflito ético não resolvido. Isso é literatura, não autorização normativa.
+
+Na Câmara tramitam projetos que desenham outra coisa: tratamento hormonal voluntário como condição de progressão ou livramento, não como pena automática. O PL nº 5.112/2020, de Bia Kicis, e o PL nº 2.322/2023, de Alfredo Gaspar, estão apensados. A justificação do PL nº 5.112/2020 invoca a Califórnia como condição de livramento. Não é fonte de resultado brasileiro, e o desenho voluntário já é o que esses projetos usam para tentar passar pelo artigo 5º. Nenhum dos dois é de Flávio Bolsonaro. Nenhum está sancionado. Um projeto antigo de Jair Bolsonaro na Câmara foi arquivado com o fim da legislatura. O governo de 2019–2022, com o filho senador e o pai presidente, não aprovou a medida.
+
+Aplicar a droga “pela Justiça”, como diz o plano, ainda exigiria lei de execução penal, protocolo médico, responsabilidade por dano e controle judicial caso a caso. Quatro anos dão para tentar um projeto. Não dão para transformar em rotina uma sanção corporal que o texto constitucional qualifica como cruel e que a categoria médica não assumiu como punição. Estupro e estupro de vulnerável já são hediondos, com regime inicial fechado e lapsos de progressão próprios. Endurecer execução é debate do capítulo da progressão. Castração química é outra intervenção.
+
+**Viabilidade: 1/5.** Sanção corporal compulsória não se implementa com a Constituição de 1988 e sem base clínica assumida pelo Estado.
+
+| Proposta | Viabilidade | Restrição principal |
+| --- | --- | --- |
+| Castração química como punição de condenado por crime sexual | 1/5 | Artigo 5º, incisos III, XLVII e XLIX; sem lei e sem parecer médico que a autorize como pena |
+| Tratamento hormonal voluntário condicionado a benefício | 2/5 | Há projetos na Câmara, de outros autores, ainda não aprovados; o plano descreve punição, não consentimento |
+
+Fontes: [PL nº 5.112/2020](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao/?idProposicao=2265050); [PL nº 2.322/2023](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2359722); [Conselho Federal de Farmácia, 16/12/2024](https://site.cff.org.br/noticia/Noticias-gerais/16/12/2024/castracao-quimica-especialistas-dizem-que-medicamentos-nao-impedem-ataques-de-pedofilos).

@@ -1,0 +1,20 @@
+# Análise: O crime do menor não é menor
+
+O texto diz que o governo “vai apoiar e sancionar a redução da maioridade penal de 18 para 16 anos” e punir maiores de 14 anos por estupro, tráfico, tortura e assassinato. Sanção presidencial só existe depois que a emenda atravessa as duas Casas. Flávio Bolsonaro já é autor da proposta. Sete anos de tramitação não a transformaram em Constituição.
+
+O artigo 228 da Constituição estabelece que são penalmente inimputáveis os menores de dezoito anos, sujeitos às normas da legislação especial. O Estatuto da Criança e do Adolescente (Lei nº 8.069/1990) e o Sinase (Lei nº 12.594/2012) regulam o ato infracional. A internação, no artigo 121, § 3º, do ECA, não passa de três anos. Mudar a idade exige proposta de emenda à Constituição: três quintos de cada Casa, em dois turnos (artigo 60). Lei ordinária e decreto não alcançam o artigo 228.
+
+A PEC nº 32/2019, apresentada em 26 de março de 2019 por Flávio Bolsonaro e outros senadores, é o texto deste capítulo: inimputáveis os menores de dezesseis anos e, para hediondos, tráfico, terrorismo e organização criminosa, responsabilidade a partir dos quatorze. Permanece no Senado. Na Câmara, a PEC nº 171/1993, de Benedito Domingos, foi aprovada em dois turnos em 2015 — 323 votos e depois 320 — num recorte mais estreito: dezesseis anos para hediondos, homicídio doloso e lesão corporal seguida de morte, sem a faixa dos quatorze e sem tráfico genérico. O artigo 228 continua com a redação de dezoito anos. O Senado, na CCJ, já rejeitou a PEC nº 33/2012, de desconsideração da inimputabilidade entre dezesseis e dezoito anos. No exame dessa matéria, o senador Randolfe Rodrigues tratou a inimputabilidade até os dezoito anos como garantia individual, hipótese de cláusula pétrea do artigo 60, § 4º, inciso IV. O Supremo Tribunal Federal não julgou, em controle concentrado, uma emenda que ainda não existe. A objeção pétrea está colocada e não está encerrada.
+
+O Brasil é parte da Convenção sobre os Direitos da Criança (Decreto nº 99.710/1990). A Convenção exige sistema especial para menores de dezoito anos. O Comitê dos Direitos da Criança, no Comentário Geral nº 24 (2019), recomenda idade mínima de responsabilidade penal de pelo menos quatorze anos e desestimula a redução. Punir um adolescente de quatorze anos como adulto, nos crimes listados pelo plano, fica no piso que o Comitê pede para não descer e retira dessa faixa o rito socioeducativo.
+
+Não há, neste capítulo, instrumento de Presidência além da sanção de uma emenda e da pressão de pauta. Jair Bolsonaro (2019–2022) teve a mesma bandeira e o mesmo artigo 228 no fim do mandato. O pico etário da violência letal, no Anuário de 2026, está em 18 a 24 anos: pessoas que já são penalmente imputáveis. Isso não apaga homicídio cometido por adolescente. Mostra que a emenda, se passasse, atingiria uma fatia do problema e deixaria intacta a faixa em que a série de mortes mais se concentra.
+
+**Viabilidade: 2/5.** A PEC de autoria do próprio senador não formou maioria em sete anos. A faixa dos quatorze anos é ainda mais estreita.
+
+| Proposta | Viabilidade | Restrição principal |
+| --- | --- | --- |
+| Reduzir a maioridade penal de 18 para 16 anos | 2/5 | Exige PEC; a de nº 32/2019 não avançou; o artigo 228 segue intacto |
+| Punir maiores de 14 anos por crimes graves | 1/5 | Além da maioria de emenda, há objeção de cláusula pétrea, ECA e Convenção sobre os Direitos da Criança |
+
+Fontes: [PEC nº 32/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/135977); [PEC nº 171/1993, segundo turno, Câmara, 19/08/2015](https://www.camara.leg.br/noticias/467640-plenario-conclui-votacao-da-pec-da-reducao-da-maioridade-penal); [CCJ do Senado e PEC nº 33/2012](https://www12.senado.leg.br/noticias/materias/2015/04/01/votacao-da-maioridade-penal-na-camara-pode-levar-a-retomada-do-debate-no-senado); [Comentário Geral nº 24 do Comitê dos Direitos da Criança, 2019](https://www.ohchr.org/en/documents/general-comments-and-recommendations/general-comment-no-24-2019-childrens-rights-child).

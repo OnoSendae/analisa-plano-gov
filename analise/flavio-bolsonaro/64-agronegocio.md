@@ -1,0 +1,41 @@
+# Análise: Agronegócio e campo
+
+**Viabilidade: 3/5**. Plano Safra, armazenagem financiada e análise do Cadastro Ambiental Rural cabem no mandato. Seguro rural esbarra no orçamento. Fertilizante nacional, titulação em massa e “propriedade irreversível” não fecham até 2030. A rastreabilidade europeia vence no fim de 2026, antes da posse.
+
+O campo, neste capítulo, mistura crédito anual, que já existe, com obra e com direito de propriedade, que o Supremo ainda julga. Flávio não operou o Incra nem o Ministério da Agricultura. A titulação em massa que o texto atribui ao governo Bolsonaro, “mais de 450 mil documentos, mais do que os dez anos anteriores”, não apareceu fechada nas fontes consultadas. O que há de oficial é meta, não série histórica: a Resolução do Conselho Diretor do Incra de 2022 fixou, para aquele ano, 170 mil documentos titulatórios e 47.612 títulos definitivos. Retomar “esse ritmo” pede, primeiro, o número auditado.
+
+| Promessa | Fato em outubro de 2026 | O que cabe em 2027–2030 | Nota |
+| --- | --- | --- | --- |
+| Ampliar o seguro rural e reorganizar dívida | Plano Safra empresarial 2026/27: R$ 525,1 bilhões, dos quais R$ 140,2 bilhões em investimento. O PSR não teve valor anunciado no lançamento de 30 de junho de 2026. A LOA 2026 previa R$ 1,01 bilhão; bloqueio e corte deixaram cerca de R$ 473 milhões, segundo Globo Rural e Canal Rural. PLOA 2027: R$ 1,2 bilhão, dos quais cerca de R$ 318,5 milhões livres e R$ 881,5 milhões condicionados a crédito extra | Subvenção maior só com espaço fiscal. Renegociação de dívida é lei e voto no Congresso, não portaria | 2 |
+| Ampliar armazenagem | Conab, capacidade estática nacional de 212,1 milhões de toneladas em 2024. Na fazenda, 35,64 milhões de toneladas em 2025, 16,8% do total. Em 2023 a primeira safra de grãos superou a capacidade em quase 12 milhões de toneladas, no Anuário Agrologístico. PCA no Plano Safra 2026/27: R$ 3,4 bilhões mais R$ 2,5 bilhões na faixa até 12 mil toneladas | Mais armazém privado via PCA. O déficit não zera | 3 |
+| Diplomacia contra sanção de Estados Unidos, China e Europa | EUDR, Regulamento (UE) 2023/1115, com aplicação adiada: grandes e médios operadores em 30 de dezembro de 2026; micro e pequenos em 30 de junho de 2027. Não é tarifa. É diligência de origem e geolocalização | Acordo comercial ajuda. A exigência europeia se cumpre com cadastro verificável, não com nota de protesto | 2 |
+| Fertilizante nacional, potássio e fosfato | ANDA, abril de 2025: importação de 41,3 milhões de toneladas em 2024, produção nacional na casa de 7 milhões. Planta nova de nitrogenado depende de gás. Potássio e fosfato são projeto mineral, prazo de lavra maior que um mandato | Licenciar projeto maduro | 2 |
+| Titulação do pequeno proprietário no ritmo anterior | Meta Incra 2022: 170 mil documentos naquele ano. Os 450 mil do plano não foram localizados em balanço do Incra | Continuar emissão onde o processo está instruído. Terra sem cadeia dominial não se titula por meta | 3 |
+| Propriedade “irreversível, sem relativização” | STF afastou o marco temporal em 2023, derrubou o trecho correspondente da Lei 14.701/2023 em dezembro de 2025, e em 14 de agosto de 2026 suspendeu os embargos por vista | Lei e defesa no Supremo. O resultado não está nas mãos do Executivo | 2 |
+| Ligar quem busca emprego a quem precisa de braço na colheita, com volta ao benefício | PNAD Contínua, trimestre jun–ago/2025: 7,948 milhões de ocupados em agricultura, pecuária, floresta, pesca e aquicultura. Cepea, boletim do 4º trimestre de 2025: ocupação primária caiu 1,1% em 2025, menos 87.378 pessoas. Falta local na safra e queda no agregado anual podem coexistir | Intermediação e regra do benefício. Isso não cria o posto | 3 |
+| Ampliar de forma significativa a área irrigada e cortar outorga de 24 meses | Valor, 31/07/2025, sobre o Atlas da ANA: 8,6 milhões de hectares. A mesma reportagem registra espera de até oito anos em alguns estados. A média de 24 meses afirmada no plano não foi confirmada | Simplificar outorga federal e emprestar o sistema aos estados. “Significativamente” não tem hectare-alvo | 2 na área; 3 na outorga federal |
+| Metas de combustível sustentável de aviação a partir de 2027, articuladas ao Plano Safra | Lei 14.993/2024, art. 10: 1% em 1º de janeiro de 2027. A biomassa é decisão de usina e de crédito, não de um plano à parte | Coordenar Agricultura e Minas e Energia para cumprir a lei | 4 |
+| Consolidar o CAR e pagar serviço ambiental | CAR existe desde a Lei 12.651/2012. Inscrição não é validação. A análise é estadual. Não localizei, nesta passagem, o percentual nacional validado | Empurrar a análise dos cadastros que a EUDR vai exigir a partir de dezembro de 2026. Pagamento por serviço ambiental exige orçamento | 3 |
+
+O Plano Safra é política anual. Ampliar seguro “para o produtor ter horizonte de mais de um ano” esbarra no fato de que o PSR de 2026 foi cortado dentro do próprio exercício, e o de 2027 já nasce com a maior parte bloqueada. Sem teto de gasto compatível, a ampliação é texto.
+
+O caminho até 2030 é prosaico: manter o PCA, gastar o que o Congresso de fato liberar no PSR, e fazer a análise do CAR andar antes que a diligência europeia, vigente para os grandes operadores em 30 de dezembro de 2026, vire barreira de embarque. Fertilizante e irrigação em escala são licença e obra, não safra.
+
+## Fontes
+
+- Plano Safra 2026/27, filipeta oficial: https://www.gov.br/agricultura/pt-br/assuntos/politica-agricola/plano-safra/2026-2027/filipeta-plano-safra-2026-2027-defeso.pdf
+- MAPA, R$ 525,1 bilhões e R$ 140,2 bilhões: https://www.gov.br/agricultura/pt-br/assuntos/politica-agricola/plano-safra/2026-2027/credito-inovador
+- PSR no lançamento e cortes de 2026: https://globorural.globo.com/credito-e-investimento/noticia/2026/06/plano-safra-202627-e-lancado-sem-previsao-de-recursos-para-seguro-rural.ghtml (30/06/2026)
+- Canal Rural, equalizado e PSR: https://www.canalrural.com.br/economia/plano-safra-2026-2027-reduz-custeio-e-encolhe-recursos-equalizados/ (30/06/2026)
+- PLOA 2027 e PSR: https://globorural.globo.com/credito-e-investimento/noticia/2026/09/seguro-rural-tera-so-r-318-milhoes-livres-no-orcamento-de-2027.ghtml (setembro de 2026)
+- Conab, capacidade e anuário: https://www.gov.br/conab/pt-br/assuntos/noticias/capacidade-de-armazenamento-em-nivel-de-fazenda-cresce-72-13-em-15-anos e https://www.gov.br/conab/pt-br/acesso-a-informacao/institucional/publicacoes/outras-publicacoes/anuario-agrologistico-2025/@@download/file
+- EUDR, datas de aplicação: https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en
+- Regulamento (UE) 2025/2650, adiamento: https://trade.ec.europa.eu/access-to-markets/en/news/delay-until-december-2026-and-other-developments-implementation-eudr-regulation
+- ANDA, abril de 2025: https://anda.org.br/wp-content/uploads/2025/04/Principais_Indicadores_2025.pdf
+- Meta de titulação do Incra em 2022: https://www.gov.br/incra/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/Resolucao_CD_45_2022_aprovacao_dos_Indicadores_Estrategicos.pdf/@@display-file/file
+- PNAD Contínua, jun–ago/2025: http://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Mensal/Quadro_Sintetico/2025/pnadc_202508_quadroSintetico.pdf
+- Cepea, mercado de trabalho do agronegócio, 4º trimestre de 2025: https://www.cepea.org.br/upload/kceditor/files/dtec.mt_agronegocio_boletim_4tri2025.23abr2026.v2.diagramado.pdf (23/04/2026)
+- Irrigação e outorga: https://valor.globo.com/publicacoes/especiais/revista-agronegocio/noticia/2025/07/31/alto-custo-dos-equipamentos-e-complexidade-dos-processos-de-outorga-limitam-a-expansao-da-area-irrigada.ghtml (31/07/2025)
+- Lei 14.993/2024: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14993.htm
+- CAR, o que é: https://www.gov.br/agricultura/pt-br/assuntos/florestal/cadastro-ambiental-rural-1/o-que-e-o-cadastro-ambiental-rural
+- Marco temporal, STF: https://noticias.stf.jus.br/postsnoticias/stf-considera-inconstitucional-trecho-de-lei-que-institui-marco-temporal-para-terras-indigenas/ e https://cimi.org.br/2026/08/stf-adia-decisoes-sobre-demarcacao-e-licenciamento-e-mantem-regras-para-mineracao-cinta-larga/ (14/08/2026)

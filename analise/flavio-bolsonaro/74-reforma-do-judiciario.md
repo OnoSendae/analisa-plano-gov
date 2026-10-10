@@ -1,0 +1,20 @@
+# Análise: Reforma do Judiciário
+
+**Viabilidade: 2/5**
+
+O capítulo quer devolver o Supremo ao papel de corte constitucional. O núcleo é emenda. O presidente indica os onze ministros (art. 101), depois de aprovação do Senado por maioria absoluta. Não os demite: vitaliciedade, inamovibilidade e irredutibilidade estão no art. 95. Não muda o art. 102 por decreto, por medida provisória nem por lei ordinária. Emenda que esvazie o controle de constitucionalidade esbarra no art. 60, § 4º, III. Ajustar competência e exigir colegiado, como faz a PEC 8/2021, cabe no poder de emendar e ainda assim precisa de 308 e 49 votos, em dois turnos, nas duas Casas.
+
+Flávio não protocolou essa reforma. A matéria viva sobre decisão monocrática é a PEC 8/2021, de Oriovisto Guimarães. O Senado a aprovou em 22 de novembro de 2023, 52 a 18. Na Câmara, a ficha segue sem comissão especial instalada; houve requerimentos de criação dessa comissão em junho e dezembro de 2025. Em 9 de setembro de 2026 o autor ainda cobrava votação, sem data de plenário. A PEC 4/2026, de autoria de Flávio, trata de reeleição, não de tribunal. Em 2025 ele pediu para subscrever a Emenda nº 1, de Sergio Moro, à PEC 3/2021, que exigia licença da Casa para ação penal contra parlamentar. A CCJ rejeitou essa PEC por inconstitucionalidade em 24 de setembro de 2025, e a matéria foi arquivada.
+
+| Promessa | Direito vigente | Veículo | Nota |
+| --- | --- | --- | --- |
+| Fim da competência criminal originária sobre parlamentares | Art. 102, I, “b” e “c”. Na questão de ordem na Ação Penal 937, em 3 de maio de 2018, o Supremo já restringiu o foro a crime praticado no mandato e em razão dele | Emenda ao art. 102 | 2 |
+| Limite à decisão monocrática e presunção de constitucionalidade da lei | Cautelar monocrática está na prática regimental. A reserva de plenário do art. 97 vale para declarar inconstitucionalidade | PEC 8/2021, parada na Câmara desde 2023. Lei ordinária que dite o rito do Supremo colide com os arts. 96 e 99 | 2 |
+| Revisão de ADPF, ADI e ADC e dos legitimados | Legitimados da ADI estão no art. 103. A ADPF é o art. 102, § 1º, regulada pela Lei nº 9.882/1999 | Emenda para o art. 103. Lei para detalhe da ADPF que não contrarie o § 1º | 2 |
+| Quarentena de um ano para ministro de Estado indicado ao Supremo | O art. 101 exige notável saber jurídico, reputação e idade entre 35 e 70 anos. Não há quarentena | O presidente pode simplesmente não indicar. Tornar a quarentena obrigatória para os sucessores é emenda: lei que amarre a nomeação do art. 101 fica exposta a controle | 4 a prática; 2 a regra |
+| Impedimento de parente até o terceiro grau e do respectivo escritório | A Resolução nº 7/2005 do CNJ já veda nepotismo na administração do Judiciário | Lei processual pode criar impedimento de advogado. Composição e correição do CNJ são o art. 103-B | 3 |
+| Mais sociedade civil no CNJ e no CNMP, com competência reduzida | Arts. 103-B e 130-A fixam composição e atribuição | Emenda | 2 |
+
+Decisão monocrática existe e suspende ato de presidente e lei. O caso Ramagem, em 2020, e a nomeação de Lula à Casa Civil, em 2016, são os exemplos que o próprio debate da PEC 8/2021 usa. O caminho que o Congresso já ensaiou é essa emenda, não um decreto. Sem os 308 e os 49, o capítulo permanece mensagem.
+
+Fontes: [PEC 8/2021 no Senado](https://www25.senado.leg.br/web/atividade/materias/-/materia/148030); [ficha na Câmara](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?fichaAmigavel=nao&idProposicao=2410488); [G1, 22 nov 2023](https://g1.globo.com/politica/noticia/2023/11/22/senado-aprova-em-1o-turno-a-pec-que-restringe-decisoes-dos-ministros-do-stf.ghtml); [Veja, 9 set 2026](https://veja.abril.com.br/brasil/autor-de-pec-que-tenta-limitar-decisoes-monocraticas-do-stf-cobra-avanco-do-texto-no-congresso/); [PEC 3/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/170519); [Senado, 24 set 2025](https://www12.senado.leg.br/noticias/materias/2025/09/24/ccj-rejeita-pec-que-exige-autorizacao-para-acao-penal-contra-parlamentares).

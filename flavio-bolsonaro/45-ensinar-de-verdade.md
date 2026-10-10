@@ -1,0 +1,17 @@
+# Ensinar de verdade
+
+## escola boa é escola onde o aluno aprende
+
+Há anos o Brasil empurra alunos de um ano para o outro sem que eles tenham aprendido. A criança que não é alfabetizada na idade certa vira o adolescente que passa de série sem entender a matéria e o jovem que termina a escola sem saber o suficiente para conseguir um bom emprego. E não é por falta de dinheiro: o país mais do que triplicou o gasto por aluno e continua entre as últimas colocações do mundo. No PISA, principal avaliação internacional de educação, o Brasil aparece na 65ª posição entre 81 países em matemática. Faltou método, faltou cobrança e sobrou ideologia.
+
+O começo de tudo é alfabetizar direito. Vamos priorizar o método fônico, que é o de melhor resultado comprovado pela ciência, ensinando a criança a ligar cada som à sua letra, em vez das abordagens que fracassaram por décadas.
+
+E, para o aluno com dificuldade ao longo do ensino fundamental, vamos criar o Programa Acolher: um aluno com bom desempenho é remunerado para dar reforço aos colegas que precisam, de forma remota ou presencial. Todos ganham, quem precisa recebe ajuda de alguém próximo, que fala a sua língua, e quem ajuda ganha uma renda e aprende ainda mais ao ensinar. O objetivo é claro: ninguém avança de série sem ter aprendido.
+
+A escola será cobrada pelo que existe para fazer. A gestão passa a ser baseada em indicadores de resultado e proficiência, e o financiamento seguirá o orçamento por resultados, com repasses vinculados a metas de aprendizagem, sem abandonar regiões que enfrentam maiores dificuldades. Os professores terão qualificação contínua baseada em evidências científicas, e não em modismos pedagógicos, com formação que os prepare para ensinar bem, e não para militar em sala de aula.
+
+A educação será orientada pelo conhecimento e livre de doutrinação político-partidária, respeitando a liberdade de consciência e o papel das famílias. Escola é lugar de aprender a pensar, não de aprender o que pensar, e quem decide sobre os valores que o filho recebe são os pais. Vamos ampliar as Escolas Cívico-Militares, que uniram disciplina e bom desempenho onde foram implantadas, e garantir atendimento ao aluno com altas habilidades, que hoje se perde por falta de estímulo: a política nacional que trata do tema é lei mas segue sem implementação, e nós vamos tirá-la do papel.
+
+Vamos ainda levar robótica, computadores, tablets e internet às escolas, e incluir no currículo competências para a economia digital, preparando o jovem para lidar com o próprio dinheiro, empreender e usar as novas tecnologias, entre elas a inteligência artificial.
+
+Apoiamos a escola em tempo integral, para que a criança tenha mais tempo de aprendizado, reforço e atividades formativas, e não fique entregue à própria sorte no contraturno. Manteremos as escolas abertas nas férias com o Escola nas Férias, oferecendo esporte, arte, música e literatura em vez de deixar a criança ociosa. E onde faltar vaga na rede pública, a família receberá um voucher educacional para matricular o filho em outra escola, porque a prioridade é a criança aprender, não a defesa de um sistema que falhou com ela.

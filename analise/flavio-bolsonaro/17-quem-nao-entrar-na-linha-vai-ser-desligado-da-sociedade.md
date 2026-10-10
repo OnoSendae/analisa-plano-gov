@@ -1,0 +1,22 @@
+# Análise: Quem não entrar na linha vai ser desligado da sociedade
+
+O título anuncia desligamento da sociedade. O texto entrega outra medida: prisão de quem for pego roubando celular, pena inicial quadruplicada para quem furta ou revende aparelho de crime, sem benefícios, para acabar com “essa indústria do crime e do assassinato”. As duas leituras têm viabilidades diferentes. A lei brasileira bloqueia o aparelho e pune o crime. Não desliga a pessoa de banco, documento e serviço como sanção geral.
+
+Furto simples é reclusão de um a quatro anos (artigo 155 do Código Penal). Roubo é de quatro a dez (artigo 157). Receptação tem tipo próprio (artigo 180). Quadruplicar a pena inicial do furto ou da revenda é projeto de lei, com votação no Congresso e controle de proporcionalidade. “Sem benefícios” repete o problema da progressão: o HC 82.959 (2006) impede vedação absoluta de progressão, e o artigo 5º individualiza a pena. “Quem for pego roubando celular vai ficar preso” trata flagrante como prisão até o fim. O artigo 310 do Código de Processo Penal manda o juiz, em até 24 horas, relaxar, converter em preventiva ou conceder liberdade. Prisão preventiva exige requisito dos artigos 312 e 313. A Constituição garante liberdade provisória e presunção de inocência (artigo 5º, incisos LXVI e LVII). Presidente não assina ordem para que todo flagrante de celular vire prisão mantida.
+
+Flávio Bolsonaro apresentou, em 2023, o PL nº 6.043/2023, que torna obrigatório o bloqueio do IMEI a partir do boletim de ocorrência, e o PL nº 6.131/2023, que aumenta penas de furto e roubo de celular. A Rádio Senado registrou os dois em janeiro de 2024 como matéria a ser analisada, não como lei. O que já funciona é administrativo: o programa Celular Seguro, Portaria MJSP nº 562, de 18 de dezembro de 2023, atualizada pela Portaria nº 837, de 19 de dezembro de 2024, permite à vítima alertar e bloquear aparelho, linha e aplicativos de instituições parceiras, com a Anatel e as operadoras. Um governo a partir de 2027 pode ampliar parceiro, prazo e integração com a polícia civil. Isso ataca o mercado do aparelho roubado sem quadruplicar pena e sem “desligar” o autor.
+
+Desligamento da pessoa — conta bancária, documento, saúde, telefone próprio, benefício — não tem tipo penal nem sanção administrativa geral no direito brasileiro. Interceptação telefônica depende de ordem judicial (Lei nº 9.296/1996). Indisponibilidade de bem e quebra de sigilo também. A LGPD trata dado pessoal e não autoriza corte de serviço como pena paralela. Bloquear o IMEI do aparelho subtraído é medida sobre a coisa. Bloquear a vida civil de quem é suspeito, ou mesmo de quem foi condenado, fora das penas previstas em lei, não está no cardápio do presidente. O título promete essa segunda figura. O corpo do capítulo promete a primeira, e ainda assim além do que o flagrante e a pena vigente permitem.
+
+Roubo de celular mata, e o plano está certo ao dizer que o aparelho carrega banco, documento e trabalho. A resposta que já cabe no Poder Executivo federal é a que a portaria de 2023 começou: tirar valor de revenda do aparelho. A resposta penal mais dura continua no Congresso e no juiz da execução. Nenhuma das duas é um interruptor social.
+
+**Viabilidade: 2/5.** Elevar pena e prender todo flagrante depende de lei e esbarra em processo penal. O bloqueio do aparelho, que o título não nomeia e o mercado exige, já existe e pode ser ampliado.
+
+| Proposta | Viabilidade | Restrição principal |
+| --- | --- | --- |
+| Quadruplicar a pena de furto e revenda e negar benefícios | 2/5 | Exige lei; progressão vedada em bloco contraria o HC 82.959 |
+| Quem for pego roubando celular permanece preso | 2/5 | Flagrante não é prisão automática; artigos 310 e 312 do CPP e artigo 5º da Constituição |
+| Bloquear aparelho, linha e conta da vítima para secar o mercado | 4/5 | Celular Seguro já opera por portaria; o PL nº 6.043/2023, de Flávio, ainda é projeto |
+| Desligar a pessoa de serviços e da vida civil | 1/5 | Não há sanção legal de corte geral; interceptação e constrição exigem juiz |
+
+Fontes: [PL nº 6.043/2023, de Flávio Bolsonaro](https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-6043-2023); [PL nº 6.043/2023 e PL nº 6.131/2023, Rádio Senado, 03/01/2024](https://www12.senado.leg.br/radio/1/noticia/2024/01/03/projetos-sobre-roubo-de-celulares-devem-entrar-na-pauta-do-senado-em-2024); [Celular Seguro, MJSP](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/celular-seguro/programa-celular-seguro).

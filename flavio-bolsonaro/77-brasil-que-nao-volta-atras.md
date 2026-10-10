@@ -1,0 +1,9 @@
+# Brasil que não volta atrás
+
+## para que tudo isso seja permanente, e não uma bolha que estoura
+
+Um plano de governo não vale pelo que promete, mas pelo que consegue sustentar. De nada adianta baixar imposto hoje se a conta volta amanhã, nem prometer serviço melhor se o Estado gasta mais do que arrecada e joga a fatura para os filhos e netos de quem trabalha. Este capítulo é a garantia de que tudo o que foi prometido nos anteriores tem lastro, e não vai virar uma bolha que estoura depois da eleição. É o compromisso com quem paga a conta: o cidadão.
+
+O contraste é claro. A gestão atual elevou a relação entre a dívida bruta e o PIB em 13 pontos percentuais em quatro anos, sem enfrentar nenhuma pandemia, e o resultado veio na forma de inflação fora da meta, a maior taxa de juros em 19 anos e 30 novos impostos ou aumentos de alíquota. Nós fizemos o oposto: mesmo diante da maior pandemia em cem anos, reduzimos em 4 pontos percentuais esse mesmo indicador. Já demos o exemplo, e vamos dar de novo.
+
+Nossa bandeira é um grande TESOURAÇO: um corte profundo e por todos os lados, que enxuga a máquina, coloca as contas em ordem e reduz os impostos que pesam sobre quem produz. E é também um Estado organizado para prevenir a corrupção: com transparência, mérito e regras claras, fecha-se o espaço para o desvio. É o que detalham as próximas páginas.
